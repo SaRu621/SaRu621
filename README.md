@@ -6,7 +6,7 @@ BMSTU student
 <a href="https://github.com/SaRu621?tab=repositories&language=go" target="_blank"><img src="https://skillicons.dev/icons?i=go"/></a>
 <a href="https://github.com/SaRu621?tab=repositories&language=cpp" target="_blank"><img src="https://skillicons.dev/icons?i=cpp"/></a>
 ## Databases:
-<a><img src="https://skillicons.dev/icons?i=postgres"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres"/></a>
 ## Containerization:
 <img src="https://skillicons.dev/icons?i=docker"/>
 ## Other:
