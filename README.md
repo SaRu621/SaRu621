@@ -16,5 +16,4 @@
 <a><img src="https://skillicons.dev/icons?i=linux"/></a>
 
 ### My contacts:
-<a href="https://www.linkedin.com/in/SaRu621"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://t.me/SaRuX86"><img src="https://skillicons.dev/icons?i=telegram"/></a>
+[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/SaRuX86)
