@@ -16,4 +16,9 @@
 <a><img src="https://skillicons.dev/icons?i=linux"/></a>
 
 ### My contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-DC322F?style=for-the-badge&logo=Telegram)](https://t.me/SaRuX86)
+ <a href="https://t.me/SaRuX86">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+<a href="mailto:kampez621@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
