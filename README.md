@@ -12,7 +12,7 @@
 ### Containerization:
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"/></a> 
 
-### Other:
+### Utils:
 <a><img src="https://skillicons.dev/icons?i=linux"/></a>
 
 ### My contacts:
