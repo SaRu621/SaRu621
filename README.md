@@ -5,3 +5,4 @@
 <a href="https://github.com/Max425?tab=repositories&language=cpp" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp"/></a>
 <img src="https://skillicons.dev/icons?i=postgres"/>
 <img src="https://skillicons.dev/icons?i=docker"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
