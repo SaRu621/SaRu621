@@ -6,7 +6,7 @@ BMSTU student
 <img src="https://skillicons.dev/icons?i=go"/>
 <img src="https://skillicons.dev/icons?i=cpp"/>
 ### Databases:
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<a><img src="https://skillicons.dev/icons?i=postgres"/></a>
 ### Containerization:
 <img src="https://skillicons.dev/icons?i=docker"/>
 ### Other:
